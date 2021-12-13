@@ -89,7 +89,7 @@
     left:50%;
     transform: translate(-50%, -50%);
     width: 350px;
-    height:420px;
+    height:600px;
     box-sizing: border-box;
     background:rgba(0,0,0,0.5) ;
     padding:80px 40px;
@@ -104,7 +104,7 @@
     width: 100%;
     margin-bottom: 20px;
 }
-.loginBox input[type="email"], .loginBox input[type="password"]{
+.loginBox input[type="email"], .loginBox input[type="address"],.loginBox input[type="datalist"],.loginBox input[type="text"]{
     border: none;
     outline: none;
     height: 42px;
